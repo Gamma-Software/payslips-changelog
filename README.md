@@ -1,0 +1,1 @@
+# payslips-changelog
